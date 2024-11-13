@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LogicPuzzle">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/LogicPuzzle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

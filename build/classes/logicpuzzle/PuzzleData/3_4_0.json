@@ -1,0 +1,27 @@
+ {
+  "Dimensions": [3,4],
+  "Difficulty": 0,
+  "Topics": {
+    "Distance": [
+      "15 feet",
+      "25 feet",
+      "35 feet",
+      "45 feet"
+    ],
+    "Students": [
+      "Aaron",
+      "Henrietta",
+      "Omar",
+      "Roderick"
+    ],
+    "Colors": [
+      "black", "blue", "green", "white"
+    ]
+  },
+  "Clues": [
+    "The white airplane went 20 feet\nfurther than Henrietta's design.",
+    "Omar's design was either the green\nairplane or the plane that went 45 feet.",
+    "The plan that went 45 feet was blue.",
+    "Aaron's design went 45 feet."
+  ]
+ }
